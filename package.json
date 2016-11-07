@@ -15,7 +15,7 @@
     "node": "*"
   },
   "dependencies": {
-    "lru-cache": "~2.0.0"
+    "lru-cache": "~4.0.1"
   },
   "devDependencies": {
     "tap": ""
